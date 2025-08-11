@@ -1,0 +1,10 @@
+maj 25, 2022 1:45:00 EM se.liu.game.game.GameManager runGame
+INFO: Game started!
+maj 25, 2022 1:45:00 EM se.liu.game.game.GameManager runGame
+INFO: High scores loaded
+maj 25, 2022 1:45:02 EM se.liu.game.game.MapManager readFromFile
+INFO: Map file loaded
+maj 25, 2022 1:45:02 EM se.liu.game.game.MapManager readFromFile
+INFO: Map file loaded
+maj 25, 2022 1:45:02 EM se.liu.game.game.MapManager refreshMaps
+INFO: Maps have been refreshed
